@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+duckduckgo-search
+requests
+beautifulsoup4
+sumy
+nltk
+PyPDF2
