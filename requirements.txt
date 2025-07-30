@@ -6,3 +6,4 @@ beautifulsoup4
 sumy
 nltk
 PyPDF2
+numpy
